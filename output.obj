@@ -1,0 +1,76 @@
+Machine code for .stack
+Machine code for msg2
+Machine code for msg3
+Machine code for msg4
+Machine code for space
+Machine code for endl
+Machine code for val2
+Machine code for print
+Machine code for 	push
+Machine code for 	push
+Machine code for 	mov
+Machine code for 	lea
+Machine code for 	int
+Machine code for 	pop
+Machine code for 	pop
+Machine code for main
+Machine code for 	mov
+Machine code for 	mov
+Machine code for 	mov
+Machine code for 	mov
+Machine code for 
+Machine code for 
+Machine code for 
+Machine code for 	call
+Machine code for 
+Machine code for 
+Machine code for 
+Machine code for 
+Machine code for 
+Machine code for 
+Machine code for 	;
+Machine code for 	;
+Machine code for 	push
+Machine code for 	push
+Machine code for 	mov
+Machine code for 	mov
+Machine code for 	loopnum:
+Machine code for 		mov
+Machine code for 		int
+Machine code for 		cmp
+Machine code for 		jb
+Machine code for 		cmp
+Machine code for 		ja
+Machine code for 		sub
+Machine code for 		push
+Machine code for 		mov
+Machine code for 		mul
+Machine code for 		mov
+Machine code for 		pop
+Machine code for 		mov
+Machine code for 		add
+Machine code for 	jmp
+Machine code for 	mov
+Machine code for 	pop
+Machine code for 	pop
+Machine code for 	;
+Machine code for 	;
+Machine code for 	;
+Machine code for 	push
+Machine code for 	push
+Machine code for 	push
+Machine code for 	mov
+Machine code for 		xor
+Machine code for 		div
+Machine code for 		push
+Machine code for 		inc
+Machine code for 		or
+Machine code for 	jne
+Machine code for 		pop
+Machine code for 		or
+Machine code for 		int
+Machine code for 	loop
+Machine code for 	pop
+Machine code for 	pop
+Machine code for 	pop
+Machine code for writenum
